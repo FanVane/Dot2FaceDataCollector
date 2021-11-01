@@ -8,3 +8,4 @@
     path: [point1, point2, point3, ...]
 
 """
+## B2
